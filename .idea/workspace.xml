@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="60e41db1-9580-4bf6-9058-2d9c3a149850" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YENnsbQZrZ9hCWoxoq9bwiETEn" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+  </component>
+  <component name="RunManager" selected="JUnit.Kruskal">
+    <configuration name="BellmanFord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leet-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prep.graphs.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prep.graphs.search" />
+      <option name="MAIN_CLASS_NAME" value="com.prep.graphs.search.BellmanFord" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BellmanFord.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leet-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prep.graphs.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prep.graphs.search" />
+      <option name="MAIN_CLASS_NAME" value="com.prep.graphs.search.BellmanFord" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DFS.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leet-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prep.graphs.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prep.graphs.search" />
+      <option name="MAIN_CLASS_NAME" value="com.prep.graphs.search.DFS" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kruskal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leet-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prep.graphs.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prep.graphs.search" />
+      <option name="MAIN_CLASS_NAME" value="com.prep.graphs.search.Kruskal" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kruskal.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leet-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prep.graphs.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prep.graphs.search" />
+      <option name="MAIN_CLASS_NAME" value="com.prep.graphs.search.Kruskal" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Kruskal" />
+        <item itemvalue="JUnit.Kruskal.test" />
+        <item itemvalue="JUnit.BellmanFord.test" />
+        <item itemvalue="JUnit.BellmanFord" />
+        <item itemvalue="JUnit.DFS.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60e41db1-9580-4bf6-9058-2d9c3a149850" name="Default Changelist" comment="" />
+      <created>1582503963130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582503963130</updated>
+      <workItem from="1582503966041" duration="7325000" />
+      <workItem from="1582550450764" duration="599000" />
+      <workItem from="1582590311673" duration="1481000" />
+      <workItem from="1582685628243" duration="599000" />
+      <workItem from="1582747067955" duration="11031000" />
+      <workItem from="1582810113435" duration="6137000" />
+      <workItem from="1582859042450" duration="7726000" />
+      <workItem from="1582938018171" duration="11741000" />
+      <workItem from="1582992841191" duration="8230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582514953617">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="210" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1582514953617" />
+    <state x="768" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1582994146791">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="768" y="239" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1582994146791" />
+    <state width="1874" height="343" key="GridCell.Tab.0.bottom" timestamp="1583003461489">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1583003461489" />
+    <state width="1874" height="343" key="GridCell.Tab.0.center" timestamp="1583003461489">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1583003461489" />
+    <state width="1874" height="343" key="GridCell.Tab.0.left" timestamp="1583003461489">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1583003461489" />
+    <state width="1874" height="343" key="GridCell.Tab.0.right" timestamp="1583003461489">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1583003461489" />
+    <state width="1874" height="343" key="GridCell.Tab.1.bottom" timestamp="1583003461490">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.1.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1583003461490" />
+    <state width="1874" height="343" key="GridCell.Tab.1.center" timestamp="1583003461489">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.1.center/0.27.1920.1053@0.27.1920.1053" timestamp="1583003461489" />
+    <state width="1874" height="343" key="GridCell.Tab.1.left" timestamp="1583003461489">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.1.left/0.27.1920.1053@0.27.1920.1053" timestamp="1583003461489" />
+    <state width="1874" height="343" key="GridCell.Tab.1.right" timestamp="1583003461489">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="343" key="GridCell.Tab.1.right/0.27.1920.1053@0.27.1920.1053" timestamp="1583003461489" />
+    <state x="449" y="187" key="SettingsEditor" timestamp="1582768849188">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="187" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1582768849188" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1582993042091">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.27.1920.1053@0.27.1920.1053" timestamp="1582993042091" />
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582992842206">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1582992842206" />
+    <state x="494" y="291" width="921" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582768774575">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="494" y="291" width="921" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.27.1920.1053@0.27.1920.1053" timestamp="1582768774575" />
+    <state x="624" y="198" width="672" height="676" key="search.everywhere.popup" timestamp="1582994100137">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="624" y="198" width="672" height="676" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1582994100137" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ads/Solution.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ads/Solution.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ads/tree/Tree.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ads/tree/Tree.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ads/tree/Tree.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ads/tree/Tree.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ads/tree/Search.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ads/tree/Search.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ads/tree/Search.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algos/tries/Trie.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algos/tries/Trie.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algos/tries/WordConcatSol.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algos/tries/WordConcatSol.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/algos/tries/WordConcatSol.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/trees/InOrderTraversal.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
