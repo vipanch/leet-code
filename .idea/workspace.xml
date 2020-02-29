@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YENnsbQZrZ9hCWoxoq9bwiETEn" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
@@ -23,8 +26,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RunManager" selected="JUnit.Kruskal">
@@ -190,14 +195,22 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.27.1920.1053@0.27.1920.1053" timestamp="1582993042091" />
-    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582992842206">
+    <state x="555" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1583004353254">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1582992842206" />
+    <state x="555" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/0.27.1920.1053@0.27.1920.1053" timestamp="1583004353254" />
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583004322060">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="616" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583004322060" />
     <state x="494" y="291" width="921" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1582768774575">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="494" y="291" width="921" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.27.1920.1053@0.27.1920.1053" timestamp="1582768774575" />
+    <state x="654" y="345" width="602" height="415" key="git4idea.merge.GitPullDialog" timestamp="1583004379387">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="654" y="345" width="602" height="415" key="git4idea.merge.GitPullDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1583004379387" />
     <state x="624" y="198" width="672" height="676" key="search.everywhere.popup" timestamp="1582994100137">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
